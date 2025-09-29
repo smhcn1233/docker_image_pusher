@@ -1,1 +1,1 @@
-openjdk:8u342-jdk
+postgres:17.6
