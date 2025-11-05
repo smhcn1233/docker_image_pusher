@@ -1,1 +1,1 @@
-python:3.14-slim
+node:25.1.0
