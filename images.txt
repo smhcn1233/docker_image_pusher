@@ -1,1 +1,1 @@
-influxdb:2.7.12
+centos:centos7.9.2009
