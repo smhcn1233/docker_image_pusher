@@ -1,1 +1,1 @@
-busybox:latest
+busybox:1.37.0
