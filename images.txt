@@ -1,1 +1,1 @@
-memcached:latest
+memcached:1.6.39
